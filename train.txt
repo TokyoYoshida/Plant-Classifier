@@ -1,0 +1,10 @@
+/TreeImages/akamegasiwa_training.jpg 0
+/TreeImages/aogiri_training.jpg 1
+/TreeImages/enju_training.jpg 2
+/TreeImages/ichyou_training.jpg 3
+/TreeImages/keyaki_training.jpg 4
+/TreeImages/kusunoki_training.jpg 5
+/TreeImages/suzukakenoki_training.jpg 6
+/TreeImages/totitnoki_training.jpg 7
+/TreeImages/toukaede_training.jpg 8
+/TreeImages/yurinoki_training.jpg 9

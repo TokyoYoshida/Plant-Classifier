@@ -1,0 +1,10 @@
+/TreeImages/akamegasiwa_test.jpg 0
+/TreeImages/aogiri_test.jpg 1
+/TreeImages/enju_test.jpg 2
+/TreeImages/ichyou_test.jpg 3
+/TreeImages/keyaki_test.jpg 4
+/TreeImages/kusunoki_test.jpg 5
+/TreeImages/suzukakenoki_test.jpg 6
+/TreeImages/totitnoki_test.jpg 7
+/TreeImages/toukaede_test.jpg 8
+/TreeImages/yurinoki_test.jpg 9
